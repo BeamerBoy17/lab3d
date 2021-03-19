@@ -1,0 +1,4 @@
+﻿  lab1.cpp
+C:\Users\tront\Downloads\lab1\lab1\lab1\lab1.cpp(97,17): warning C4101: ps: неиспользованная локальная переменная
+C:\Users\tront\Downloads\lab1\lab1\lab1\lab1.cpp(98,10): warning C4101: key: неиспользованная локальная переменная
+  lab1.vcxproj -> C:\Users\tront\Downloads\lab1\lab1\Debug\lab1.exe
